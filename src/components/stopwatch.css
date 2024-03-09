@@ -1,0 +1,11 @@
+.stopwatch {
+    background: #3d8883;
+    width: 230px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    box-shadow: 0px 0px 25px 0px #1b22212c;
+}
+
